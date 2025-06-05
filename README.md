@@ -1,5 +1,5 @@
 # Arnes Kapic 
-# Data Structures & Algorithms ll 
+# Data Structures & Algorithms
 
 # F1. Strengths of Algorithms Used
 
